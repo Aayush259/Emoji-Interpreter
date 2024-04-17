@@ -4,7 +4,7 @@
 This is a simple React application that interprets emojis. Users can either click on an emoji from the list to see its meaning or input an emoji into the text box.
 This is my first React application and I'm excited to share it with you!
 
-<img src="./public/ss.PNG" width="300">
+<img src="./public/ss.PNG" width="600">
 
 ## Features
 - **Emoji Input**: Users can input an emoji into the text box to see its meaning.
