@@ -60,7 +60,7 @@ function App() {
         <div id="emoji-list" className="flex">
           {
             EmojiList.map((emoji) => {
-              return <span key={emoji} class="emoji" onClick={EmojiClickHandler}>{emoji}</span>
+              return <button key={emoji} class="emoji" onClick={EmojiClickHandler}>{emoji}</button>
             })
           }
         </div>
